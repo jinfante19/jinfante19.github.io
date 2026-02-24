@@ -1,3 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# Strategische marketing documenten (bewaar in privé-repo)
+.claude/product-marketing-context.md
+.claude/speelveld-analyse-vibe-group.md
